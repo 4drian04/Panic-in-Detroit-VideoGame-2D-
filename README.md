@@ -10,3 +10,6 @@ Finally, at the end of the path there will be a large, challenging enemy that yo
 
 
 Soundtrack comes from the video game The Last of Us and DeadCells.
+
+
+Due to I can't upload more than 100 files, I'm leaving you a PDF with the link to the resources on Google Drive :)
