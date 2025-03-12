@@ -13,3 +13,5 @@ Soundtrack comes from the video game The Last of Us and DeadCells.
 
 
 Due to I can't upload more than 100 files, I'm leaving you a PDF with the link to the resources on Google Drive :)
+
+If you don't want to download the PDF, here's the <a href="https://drive.google.com/drive/folders/1EeJtWpjWp2VBcH6AKSd1A2JtY1N8itJz?usp=sharing">link to the resources</a> for the video game Panic in Detroit
