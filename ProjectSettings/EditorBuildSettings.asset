@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuPrincipal.unity
+    guid: a214c83f5f4808345abf2e97db21bffc
+  - enabled: 1
+    path: Assets/Scenes/MenuDificultad.unity
+    guid: f9071e63ae97b9044b516ca40a34581c
+  - enabled: 1
+    path: Assets/Scenes/Opciones.unity
+    guid: 378e3cd4a26eb3f4abaeb0eab7ce2c52
+  - enabled: 1
+    path: Assets/Scenes/Controles.unity
+    guid: 91129d2905678ad409fda1c474582157
+  - enabled: 1
+    path: Assets/Scenes/ControlesInfo.unity
+    guid: 28fac3cfc71323148afb85f8ca4ec904
+  - enabled: 1
+    path: Assets/Scenes/CityScene.unity
+    guid: a80c7de983623f542be7a2b16202f119
+  - enabled: 1
+    path: Assets/Scenes/LabScene.unity
+    guid: 290aa82ff3559bc4aa887077398d88c7
+  - enabled: 1
+    path: Assets/Scenes/PantallaMuerte.unity
+    guid: b39f47d1389377042bab4ae21f79b117
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: b16959f559e676d45b160446f8366451
+  m_configObjects: {}
